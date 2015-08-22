@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  MusicSearchResults.m
 //  MusicSearch
 //
 //  Created by Rao Repalle, Venkateswara R. on 8/21/15.
 //  Copyright (c) 2015 Pavani. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "MusicSearchResults.h"
 
-@interface ViewController : UIViewController
-
+@implementation MusicSearchResults
 
 @end
-
